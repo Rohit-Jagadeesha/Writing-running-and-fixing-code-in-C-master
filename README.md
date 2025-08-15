@@ -1,4 +1,6 @@
 Assignments solutions 
+
+
 To do the first assignment:
 
 cd 00_hello
